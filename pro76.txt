@@ -1,0 +1,40 @@
+administrator
+step 1 sign up and login
+
+
+user
+step1 fill the request form
+form=details of user
+and why the person wants that thing and at what price
+
+step2 user should be notified when the request is accepted and donor is ready to give the belonging and there should be an option to chat with the other person so that they can decide how to recieve the item and pay for it
+
+step3 user should give confirmation of receiving the thing
+
+
+seller
+step1 seller should be able to see all the active requests and decide whom to give the thing to according to the form and price people are ready to give
+
+step2 there should a search screen for the donor to filter the item requests
+
+
+step4 as a seller there should be an option to chat with buyer to share details and decide how to exchange the item and money
+
+step5 as a seller i should be notified when book reaches the user
+
+
+user workflow(book request)
+the user logs into the account
+once user logs in he sees two tabs donate and request
+once he press request he should get a form in which he would fill his details and the reason to get the thing
+after user requests he should see his request live on request page
+ 
+
+seller(seller of item)
+seller log in
+he see two tabs sell and request
+once he clicks on sell tab he should be able to see all the items request
+there should be a search option which helps him to filter the requests according to the thing he wants to sell
+he should be able to see request form of every person who wants that thing
+
+                  
